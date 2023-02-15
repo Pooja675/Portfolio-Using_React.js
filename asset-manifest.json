@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Using_React.js/static/css/main.5fc8fcdb.css",
+    "main.js": "/Portfolio-Using_React.js/static/js/main.7233c9ab.js",
+    "static/media/Portfolio.png": "/Portfolio-Using_React.js/static/media/Portfolio.ee994e8eee0f7510d2b9.png",
+    "static/media/Pooja_FrontEndDev_Resume.pdf": "/Portfolio-Using_React.js/static/media/Pooja_FrontEndDev_Resume.e59d15cdd59c2345ec58.pdf",
+    "static/media/Task Tracker.png": "/Portfolio-Using_React.js/static/media/Task Tracker.b9e85dad4776fba8b1d2.png",
+    "static/media/Calculator.png": "/Portfolio-Using_React.js/static/media/Calculator.b15cc4b6f106e338d9a3.png",
+    "static/media/glassesimoji.png": "/Portfolio-Using_React.js/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Clock.png": "/Portfolio-Using_React.js/static/media/Clock.429b2ccd1c136d481160.png",
+    "static/media/Pooja2.jpg": "/Portfolio-Using_React.js/static/media/Pooja2.ed3ee323b1a765b1561b.jpg",
+    "static/media/Gumela Regular.otf": "/Portfolio-Using_React.js/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
+    "static/media/wave.png": "/Portfolio-Using_React.js/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Portfolio-Using_React.js/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Portfolio-Using_React.js/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/collage.png": "/Portfolio-Using_React.js/static/media/collage.d309404b64d22789381e.png",
+    "static/media/CDAC.jpg": "/Portfolio-Using_React.js/static/media/CDAC.fd30f0dd86929dbfdca1.jpg",
+    "index.html": "/Portfolio-Using_React.js/index.html",
+    "main.5fc8fcdb.css.map": "/Portfolio-Using_React.js/static/css/main.5fc8fcdb.css.map",
+    "main.7233c9ab.js.map": "/Portfolio-Using_React.js/static/js/main.7233c9ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fc8fcdb.css",
+    "static/js/main.7233c9ab.js"
+  ]
+}
